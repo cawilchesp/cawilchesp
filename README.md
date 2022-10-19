@@ -2,6 +2,8 @@
 
 [![Andrés’ github stats](https://github-readme-stats.vercel.app/api?username=cawilchesp)](https://github.com/cawilchesp)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cawilchesp&layout=compact)](https://github.com/cawilchesp)
+
 <!--
 
 Here are some ideas to get you started:
