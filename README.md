@@ -16,7 +16,7 @@ About me:
 
 PyQT Apps:
 
-1. [Somatotype](https://github.com/cawilchesp/somatotype-pyqt)
+1. [Somatotype](https://github.com/cawilchesp/somatotype-pyqt) (In development)
 
 
 
