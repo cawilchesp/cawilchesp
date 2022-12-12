@@ -17,6 +17,7 @@ About me:
 PyQT Apps:
 
 1. [Somatotype](https://github.com/cawilchesp/somatotype-pyqt) (In development)
+2. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyqt) (In development)
 
 
 
