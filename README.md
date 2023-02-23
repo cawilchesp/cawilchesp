@@ -14,6 +14,10 @@ About me:
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andr%C3%A9s-wilches-p%C3%A9rez/)
 
+PyQt 6 UI kit:
+
+[Material Design 3 Components](https://github.com/cawilchesp/md3-components): Based on Google Material Design 3 Components, adapted using PyQt 6 library, and implemented using my own Python development structure.
+
 PyQT Apps:
 
 1. [Somatotype](https://github.com/cawilchesp/somatotype-pyqt) (In development)
