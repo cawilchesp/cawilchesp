@@ -20,8 +20,8 @@ PySide 6 UI kit:
 
 PyQT Apps:
 
-1. [Somatotype](https://github.com/cawilchesp/somatotype-pyqt) (In development)
-2. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyqt) (In development)
+1. [Somatotype](https://github.com/cawilchesp/somatotype_pyside6) (In development)
+2. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyside6) (In development)
 
 
 
