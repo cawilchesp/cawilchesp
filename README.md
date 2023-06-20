@@ -23,6 +23,18 @@ PyQT Apps:
 1. [Somatotype](https://github.com/cawilchesp/somatotype_pyside6) (In development)
 2. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyside6) (In development)
 
+YOLO Object Detectors:
+
+1. [YOLO-NAS](https://github.com/cawilchesp/yolo-nas-detection)
+2. [YOLO v8](https://github.com/cawilchesp/yolov8_detection)
+3. [YOLO v7](https://github.com/cawilchesp/yolov7) (Forked from [YOLO v7](https://github.com/WongKinYiu/yolov7))
+
+YOLO Object Trackers with Deep-SORT:
+
+1. [YOLO-NAS](https://github.com/cawilchesp/yolo-nas-tracking)
+2. [YOLO v8](https://github.com/cawilchesp/yolov8_tracking)
+3. [YOLOR](https://github.com/cawilchesp/yolor-deepsort-main)
+
 
 
 ### :fire: My Stats :
