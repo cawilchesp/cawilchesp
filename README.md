@@ -18,10 +18,10 @@ PySide 6 UI kit:
 
 [Material Design 3 Components](https://github.com/cawilchesp/md3-components): Based on Google Material Design 3 Components, adapted using PySide 6 library, and implemented using my own Python development structure.
 
-PyQT Apps:
+PySide 6 Apps:
 
-1. [Somatotype](https://github.com/cawilchesp/somatotype_pyside6) (In development)
-2. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyside6) (In development)
+1. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyside6) (Version 1.0)
+2. [Somatotype](https://github.com/cawilchesp/somatotype_pyside6) (In development)
 
 YOLO Object Detectors:
 
