@@ -12,7 +12,7 @@
 About me:
 
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andr%C3%A9s-wilches-p%C3%A9rez/)
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andr%C3%A9s-wilches-p%C3%A9rez/)
 
 PySide 6 UI kit:
 
