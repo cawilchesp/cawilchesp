@@ -16,7 +16,7 @@ About me:
 
 PySide 6 UI kit:
 
-[UI Components](https://github.com/cawilchesp/md3-components): Based on Google Material Design 3 Components, adapted using PySide 6 library, and implemented using my own Python development structure.
+[UI Components](https://github.com/cawilchesp/pyside6_ui_components): Common UI components, created using PySide 6 library, and implemented using my own Python development structure.
 
 PySide 6 Apps:
 
