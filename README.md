@@ -25,17 +25,9 @@ PySide 6 Apps:
 
 YOLO Object Detectors:
 
-1. [YOLO-NAS](https://github.com/cawilchesp/yolo-nas-detection)
-2. [YOLO v8](https://github.com/cawilchesp/yolov8_detection)
-3. [YOLO v7](https://github.com/cawilchesp/yolov7) (Forked from [YOLO v7](https://github.com/WongKinYiu/yolov7))
-
-YOLO Object Trackers with Deep-SORT:
-
-1. [YOLO-NAS](https://github.com/cawilchesp/yolo-nas-tracking)
-2. [YOLO v8](https://github.com/cawilchesp/yolov8_tracking)
-3. [YOLOR](https://github.com/cawilchesp/yolor-deepsort-main)
-
-
+1. [Object Trackers](https://github.com/cawilchesp/object_trackers)
+2. [YOLO-NAS](https://github.com/cawilchesp/yolo-nas-detection)
+3. [YOLO v8](https://github.com/cawilchesp/yolov8_detection)
 
 ### :fire: My Stats :
 
