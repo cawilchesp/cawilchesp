@@ -23,11 +23,9 @@ PySide 6 Apps:
 1. [Video Object Tracking](https://github.com/cawilchesp/video_tracking_pyside6) (Version 1.0)
 2. [Somatotype](https://github.com/cawilchesp/somatotype_pyside6) (In development)
 
-YOLO Object Detectors:
+Object Detectors:
 
-1. [Object Trackers](https://github.com/cawilchesp/object_trackers)
-2. [YOLO-NAS](https://github.com/cawilchesp/yolo-nas-detection)
-3. [YOLO v8](https://github.com/cawilchesp/yolov8_detection)
+1. [Object Trackers](https://github.com/cawilchesp/object_trackers): Continously updating to include implementations of SOTA detectors, and for learning/improving code.
 
 ### :fire: My Stats :
 
